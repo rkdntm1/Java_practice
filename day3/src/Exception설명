@@ -1,0 +1,8 @@
+Throwable
+
+
+Error				Exception
+:개발자가 고칠 수 없는       :프로그램상에서 고칠 수 있는 예오;
+결정적 에러
+                    RuntimeException            Runtime이 아닌 Exception(비 RuntimeException)
+                    =>실행 했을때 발생된 예외                   => 소스코드에서 확인 할 수 있는 예외
